@@ -3,6 +3,7 @@ Pin-Chung (Tony) Cheng is a Ph.D. student in the Division of Biological Sciences
 
 <img src="https://github.com/tonycheng521/tonycheng521.github.io/blob/master/tony-tdp43-poster.png?raw=true" alt="tdp43-poster" width="600"/>
 
-[Link to my Github Repositories](https://github.com/tonycheng521).
+# Github Link
+[To my Github Repositories](https://github.com/tonycheng521).
 
 <img src="https://avatars0.githubusercontent.com/u/57273370?s=460&u=f6a8469cbd1f6dc8cc2cb4210d2cb9bb1bdb27a2&v=4" alt="tony-avatar" width="300"/>
